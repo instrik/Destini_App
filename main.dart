@@ -6,7 +6,7 @@ import 'package:flutter/widgets.dart';
 import 'story_brain.dart';
 
 void main() => runApp(Destini());
-// trial comment 26
+// trial comment 28
 class Destini extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(

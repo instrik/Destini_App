@@ -1,4 +1,4 @@
-// ignore_for_file: prefer_const_constructors
+y// ignore_for_file: prefer_const_constructors
 
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
@@ -7,7 +7,7 @@ import 'story_brain.dart';
 
 void main() => runApp(Destini());
 
-// trial comment o9
+// trial comment o9n
 
 class Destini extends StatelessWidget {
   Widget build(BuildContext context) {
@@ -123,6 +123,7 @@ class _StoryPageState extends State<StoryPage> {
     );
   }
 }
+
 
 
 

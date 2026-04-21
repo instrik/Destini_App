@@ -7,10 +7,8 @@ import 'story_brain.dart';
 
 void main() => runApp(Destini(
 
-// trial comment fgfgfjgl/b'ougoougpgvuggfipfuyuf;kdscdv nl; k;b
-  k;nxv xcvdsv
-  pi
-g;i
+// trial comment
+
 class Destini extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(

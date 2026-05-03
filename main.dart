@@ -7,7 +7,7 @@ import 'story_brain.dart';
 
 void main() => runApp(Destini(
 
-// trial comment  kj 'jh
+// trial comment  kj 'jhjnj;k
 
 class Destini extends StatelessWidget {
   Widget build(BuildContext context) {

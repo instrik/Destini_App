@@ -5,7 +5,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
 import 'story_brain.dart';
 
-// trial comment 8
+// trial comment
 
 void main() => runApp(Destini(
 

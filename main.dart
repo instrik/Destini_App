@@ -4,9 +4,9 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
 import 'story_brain.dart';
-ghh
-// trial comment khjkhjfch
-gbibhvjychccvgghh
+
+// trial comment
+
 void main() => runApp(Destini(
 
 class Destini extends StatelessWidget {

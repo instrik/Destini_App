@@ -5,8 +5,8 @@ import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
 import 'story_brain.dart';
 
-// trial comment kjkhkjhkj
-kjiu
+// trial comment
+
 void main() => runApp(Destini(
 
 class Destini extends StatelessWidget {
